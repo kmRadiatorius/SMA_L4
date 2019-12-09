@@ -1,0 +1,10 @@
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\bin\Debug\SMA4.exe.config
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\bin\Debug\SMA4.exe
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\bin\Debug\SMA4.pdb
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\obj\Debug\SMA4.Form1.resources
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\obj\Debug\SMA4.Properties.Resources.resources
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\obj\Debug\SMA4.csproj.GenerateResource.Cache
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\obj\Debug\SMA4.csproj.CoreCompileInputs.cache
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\obj\Debug\SMA4.exe
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\obj\Debug\SMA4.pdb
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD4\SMA4\obj\Debug\SMA4.csprojAssemblyReference.cache
